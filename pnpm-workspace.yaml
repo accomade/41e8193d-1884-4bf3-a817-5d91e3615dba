@@ -1,0 +1,4 @@
+minimumReleaseAgeExclude:
+  - accomadesc@0.4.40
+onlyBuiltDependencies:
+  - esbuild
